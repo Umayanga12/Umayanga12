@@ -1,6 +1,6 @@
 ### Hi👋, I'm Umayanga Athapaththu
 
-- 🔭 I’m currently working on Python & Js 
+- 🔭 I’m currently working on Java,Python & Js 
 - 🌱 I’m currently learning .NET and C 
 - 👯 I’m looking to collaborate on CSSL 
 - 🤔 I’m looking for help with AI & Cryptography
