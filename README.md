@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning .NET and C 
 - 👯 I’m looking to collaborate on FOSS & CSSL 
 - 🤔 I’m looking for help with AI,Ethical Hacking, Cryptography & Kernal development
+![4357280](https://github.com/Umayanga12/Umayanga12/assets/42837553/64dec26b-2067-44f4-b17e-b3b07272dcbf)
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 <!--
 **Umayanga12/Umayanga12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
