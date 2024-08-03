@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with AI,Ethical Hacking, Cryptography & Kernal development
 ![4357280](https://github.com/Umayanga12/Umayanga12/assets/42837553/64dec26b-2067-44f4-b17e-b3b07272dcbf)
 
-🔭🔭As an undergraduate student at Plymouth University pursuing a degree in Computer Science, my current research focus lies in dynamic neural networks, which adapt their architecture according to the datasets obtained from discrete event simulations.
+🔭🔭As an undergraduate student at Plymouth University pursuing a degree in Computer Science, my current research focus lies on NFT based authentication system for micro services which can replce the JWT and Video synopsis application.
 
 
 <!--
