@@ -1,6 +1,6 @@
 ### Hi👋, I'm Umayanga Athapaththu
 
-Computer Science Undergraduate at Plymouth University UK
+Computer Science Undergraduate at Plymouth University UK. Intern at IT division Airport and Aviation Services (sri lanka) limited
 
 # 💫 About Me:
 
