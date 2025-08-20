@@ -4,8 +4,8 @@ Computer Science Undergraduate at Plymouth University UK. Intern at IT division 
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on customized OS development using Linux kernel and developing GPT-powered cmd-line 
-- 🌱 I’m currently learning Blockchain, AI & ML, and kernel development
+- 🔭 I’m currently working on Supplynet Project, the project with is creating the infrastructure for the Srilanakan agricultrual and product supplychain. 
+- 🌱 I’m currently learning Blockchain, AI & ML, and Cloud
 - 🤔 I’m looking for help with AI,Ethical Hacking, Cryptography & Kernal development
 
 ## 🌐 Socials:
