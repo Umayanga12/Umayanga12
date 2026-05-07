@@ -20,7 +20,6 @@ I build scalable backend systems, AI-powered applications, and modern web platfo
 ## 📌 Featured Projects
 
 - ⚖️ AI Legal SaaS Platform (RAG + LLMs)
-- 🤖 AI Influencer Automation System
 - 🧠 AI Backend Code Generator
 - 🛒 Distributed Online Marketplace Platform
 
