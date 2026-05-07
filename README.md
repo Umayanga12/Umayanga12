@@ -41,6 +41,4 @@ DOI: https://doi.org/10.59765/jriie.9.3.18
 - Portfolio: https://umayanga.web.lk/
 - Email: imanthaumayanga512@gmail.com
 
----
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Umayanga12&show_icons=true&theme=tokyonight)
